@@ -40,7 +40,7 @@ Setup Instructions
 1. Clone the Repository
 bash
 Copy code
-git clone https://github.com/YourUsername/TextExtractor.git
+git clone https://github.com/jojotwil/TextExtractorPython
 cd TextExtractor
 2. Install Required Python Packages
 bash
