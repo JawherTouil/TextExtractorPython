@@ -1,8 +1,20 @@
-# Ignore Python cache files
+# Byte-compiled files
 __pycache__/
 *.py[cod]
+
+# Virtual environment
+.env/
+.venv/
+
+# PyInstaller build artifacts
+build/
+dist/
 *.spec
 
-# Ignore build folders
-dist/
-build/
+# Editor-specific files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
